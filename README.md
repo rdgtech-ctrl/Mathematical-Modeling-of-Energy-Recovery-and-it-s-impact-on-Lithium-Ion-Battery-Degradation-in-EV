@@ -188,4 +188,4 @@ curl -X POST http://localhost:5000/predict \
 
 ---
 
-*MathXplore 2026 · NMIT · ISE & CSE*
+*MathXplore 2026 · NMIT*
