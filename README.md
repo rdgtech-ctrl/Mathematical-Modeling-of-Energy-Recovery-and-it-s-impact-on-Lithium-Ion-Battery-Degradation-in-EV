@@ -1,8 +1,7 @@
 # RegenPredict — MathXplore 2026
 
 > A mathematically validated regression model that quantifies how regenerative braking patterns drive battery stress in electric vehicles.
-
-**Team:** Karthik G (NB25ISE104) · Disha (NB25CSE109) · Guru Raghav (NB25ISE078)  
+ 
 **Institution:** Nitte Meenakshi Institute of Technology, Bengaluru  
 **Competition:** MathXplore 2026 — Mathematical Modelling & Innovation  
 
